@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\sql\\repository\\reposusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\sql\\repository\\reposusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\sql\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\sql\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\servise\\passwordhesher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\servise\\passwordhesher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\servise\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\servise\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\core\\resultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\core\\resultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\core\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\core\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\servise\\toolsservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\servise\\toolsservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\interfase\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\interfase\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Users\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Users\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T10:24:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Startup.cs",
+              "RelativeDocumentMoniker": "Users\\Startup.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Startup.cs",
+              "RelativeToolTip": "Users\\Startup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:18:27.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JWTServise.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\JWTServise.cs",
+              "RelativeDocumentMoniker": "Users\\Servise\\JWTServise.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\JWTServise.cs",
+              "RelativeToolTip": "Users\\Servise\\JWTServise.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:14:53.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Users\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Users\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAjwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:57:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHesher.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\PasswordHesher.cs",
+              "RelativeDocumentMoniker": "Users\\Servise\\PasswordHesher.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\PasswordHesher.cs",
+              "RelativeToolTip": "Users\\Servise\\PasswordHesher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:31:22.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\UserService.cs",
+              "RelativeDocumentMoniker": "Users\\Servise\\UserService.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\UserService.cs",
+              "RelativeToolTip": "Users\\Servise\\UserService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:36:40.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultUser.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Core\\ResultUser.cs",
+              "RelativeDocumentMoniker": "Users\\Core\\ResultUser.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Core\\ResultUser.cs",
+              "RelativeToolTip": "Users\\Core\\ResultUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:36:25.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conection.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Conection.cs",
+              "RelativeDocumentMoniker": "Users\\SQL\\Conection.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Conection.cs",
+              "RelativeToolTip": "Users\\SQL\\Conection.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:49:15.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Core\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Users\\Core\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Core\\UserRequest.cs",
+              "RelativeToolTip": "Users\\Core\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:48:40.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToolsServise.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\ToolsServise.cs",
+              "RelativeDocumentMoniker": "Users\\Servise\\ToolsServise.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\ToolsServise.cs",
+              "RelativeToolTip": "Users\\Servise\\ToolsServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:45:25.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Interfase\\Interface.cs",
+              "RelativeDocumentMoniker": "Users\\Interfase\\Interface.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Interfase\\Interface.cs",
+              "RelativeToolTip": "Users\\Interfase\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:45:22.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Program.cs",
+              "RelativeDocumentMoniker": "Users\\Program.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Program.cs",
+              "RelativeToolTip": "Users\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:00:55.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReposUsers.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Repository\\ReposUsers.cs",
+              "RelativeDocumentMoniker": "Users\\SQL\\Repository\\ReposUsers.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Repository\\ReposUsers.cs",
+              "RelativeToolTip": "Users\\SQL\\Repository\\ReposUsers.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:19:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailRepos.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Repository\\EmailRepos.cs",
+              "RelativeDocumentMoniker": "Users\\SQL\\Repository\\EmailRepos.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Repository\\EmailRepos.cs",
+              "RelativeToolTip": "Users\\SQL\\Repository\\EmailRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:19:41.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

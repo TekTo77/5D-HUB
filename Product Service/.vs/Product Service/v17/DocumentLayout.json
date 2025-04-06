@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\sql\\repository\\repos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\sql\\repository\\repos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\servise\\productservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\servise\\productservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\servise\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\servise\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\sql\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\sql\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\servise\\toolsservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\servise\\toolsservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\servise\\kafka\\kafkamesseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\servise\\kafka\\kafkamesseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\product service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\product service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\product service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\product service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|c:\\users\\tekto77\\desktop\\progect\\product service\\product service\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB28C149-93F3-4EDA-BAB1-01B86E40448C}|Product Service\\Product Service.csproj|solutionrelative:product service\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Startup.cs",
+              "RelativeDocumentMoniker": "Product Service\\Startup.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Startup.cs",
+              "RelativeToolTip": "Product Service\\Startup.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:28:42.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KafkaMesseg.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\Kafka\\KafkaMesseg.cs",
+              "RelativeDocumentMoniker": "Product Service\\Servise\\Kafka\\KafkaMesseg.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\Kafka\\KafkaMesseg.cs",
+              "RelativeToolTip": "Product Service\\Servise\\Kafka\\KafkaMesseg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:56:44.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToolsServise.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\ToolsServise.cs",
+              "RelativeDocumentMoniker": "Product Service\\Servise\\ToolsServise.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\ToolsServise.cs",
+              "RelativeToolTip": "Product Service\\Servise\\ToolsServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:44:06.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductServise.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\ProductServise.cs",
+              "RelativeDocumentMoniker": "Product Service\\Servise\\ProductServise.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\ProductServise.cs",
+              "RelativeToolTip": "Product Service\\Servise\\ProductServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:29:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\SQL\\SqlContext.cs",
+              "RelativeDocumentMoniker": "Product Service\\SQL\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\SQL\\SqlContext.cs",
+              "RelativeToolTip": "Product Service\\SQL\\SqlContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:55:40.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JWTservise.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\JWTservise.cs",
+              "RelativeDocumentMoniker": "Product Service\\Servise\\JWTservise.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\JWTservise.cs",
+              "RelativeToolTip": "Product Service\\Servise\\JWTservise.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:43:59.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repos.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\SQL\\Repository\\Repos.cs",
+              "RelativeDocumentMoniker": "Product Service\\SQL\\Repository\\Repos.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\SQL\\Repository\\Repos.cs",
+              "RelativeToolTip": "Product Service\\SQL\\Repository\\Repos.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:24:34.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "Product Service\\Servise\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Servise\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "Product Service\\Servise\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:06:16.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Product Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\appsettings.json",
+              "RelativeToolTip": "Product Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T20:56:07.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product Service.csproj",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Product Service.csproj",
+              "RelativeDocumentMoniker": "Product Service\\Product Service.csproj",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Product Service.csproj",
+              "RelativeToolTip": "Product Service\\Product Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T19:19:16.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Program.cs",
+              "RelativeDocumentMoniker": "Product Service\\Program.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Program.cs",
+              "RelativeToolTip": "Product Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:58:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product Service.http",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Product Service.http",
+              "RelativeDocumentMoniker": "Product Service\\Product Service.http",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Product Service.http",
+              "RelativeToolTip": "Product Service\\Product Service.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-02T20:53:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Product Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Product Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T20:02:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailRepos.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\SQL\\Repository\\EmailRepos.cs",
+              "RelativeDocumentMoniker": "Product Service\\SQL\\Repository\\EmailRepos.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\SQL\\Repository\\EmailRepos.cs",
+              "RelativeToolTip": "Product Service\\SQL\\Repository\\EmailRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:21:06.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "Product Service\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Controllers\\Controller.cs",
+              "RelativeToolTip": "Product Service\\Controllers\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:51:45.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Core\\Product.cs",
+              "RelativeDocumentMoniker": "Product Service\\Core\\Product.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Product Service\\Product Service\\Core\\Product.cs",
+              "RelativeToolTip": "Product Service\\Core\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:25:37.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

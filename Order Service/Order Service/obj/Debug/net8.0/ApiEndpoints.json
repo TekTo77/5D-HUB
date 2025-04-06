@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Order_Service.Controllers.OrdersController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Orders/orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Order_Service.Core.CreateOrder",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Order_Service.Controllers.OrdersController",
+    "Method": "GetInfoOrders",
+    "RelativePath": "api/Orders/orders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,75 @@
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.csproj.AssemblyReference.cache
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.AssemblyInfoInputs.cache
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.AssemblyInfo.cs
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.csproj.CoreCompileInputs.cache
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\appsettings.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Product Service.staticwebassets.endpoints.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Product Service.exe
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Product Service.deps.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Product Service.runtimeconfig.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Product Service.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Product Service.pdb
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Npgsql.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Serilog.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\scopedcss\bundle\Product Service.styles.css
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets\msbuild.Product Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets\msbuild.Product Service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Service.props
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Service.props
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Service.props
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product .BC36B699.Up2Date
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\refint\Product Service.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.pdb
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\Product Service.genruntimeconfig.cache
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\obj\Debug\net8.0\ref\Product Service.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\TekTo77\Desktop\Progect\Product Service\Product Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll

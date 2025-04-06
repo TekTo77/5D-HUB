@@ -1,0 +1,8 @@
+{
+    "ConnectString": {
+        "Server": "localhost",
+        "DataBase": "Project",
+        "Login": "postgres",
+        "Password": "1212"
+    }
+}
