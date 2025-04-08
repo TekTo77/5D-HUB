@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\sql\\repository\\reposusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\sql\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\sql\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|solutionrelative:users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D2AF2AA-5D99-4F99-AE20-7C22276D8841}|Users\\Users.csproj|c:\\users\\tekto77\\desktop\\progect\\users\\users\\servise\\passwordhesher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +70,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "JwtAuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\JwtAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "Users\\JwtAuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\JwtAuthenticationMiddleware.cs",
+              "RelativeToolTip": "Users\\JwtAuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:56:20.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Users\\Properties\\launchSettings.json",
@@ -78,21 +94,19 @@
               "RelativeToolTip": "Users\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-06T10:24:18.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T10:24:18.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Startup.cs",
               "RelativeDocumentMoniker": "Users\\Startup.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Startup.cs",
               "RelativeToolTip": "Users\\Startup.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T10:18:27.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T10:18:27.708Z"
             },
             {
               "$type": "Document",
@@ -102,13 +116,13 @@
               "RelativeDocumentMoniker": "Users\\Servise\\JWTServise.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\JWTServise.cs",
               "RelativeToolTip": "Users\\Servise\\JWTServise.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T10:14:53.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Users\\Controllers\\UsersController.cs",
@@ -120,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PasswordHesher.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\PasswordHesher.cs",
               "RelativeDocumentMoniker": "Users\\Servise\\PasswordHesher.cs",
@@ -132,19 +146,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\UserService.cs",
               "RelativeDocumentMoniker": "Users\\Servise\\UserService.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\UserService.cs",
               "RelativeToolTip": "Users\\Servise\\UserService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwDYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T08:36:40.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ResultUser.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Core\\ResultUser.cs",
               "RelativeDocumentMoniker": "Users\\Core\\ResultUser.cs",
@@ -156,19 +170,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Conection.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Conection.cs",
               "RelativeDocumentMoniker": "Users\\SQL\\Conection.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Conection.cs",
               "RelativeToolTip": "Users\\SQL\\Conection.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAABQwCMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T20:49:15.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserRequest.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Core\\UserRequest.cs",
               "RelativeDocumentMoniker": "Users\\Core\\UserRequest.cs",
@@ -180,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ToolsServise.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Servise\\ToolsServise.cs",
               "RelativeDocumentMoniker": "Users\\Servise\\ToolsServise.cs",
@@ -192,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Interface.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Interfase\\Interface.cs",
               "RelativeDocumentMoniker": "Users\\Interfase\\Interface.cs",
@@ -204,19 +218,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Program.cs",
               "RelativeDocumentMoniker": "Users\\Program.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\Program.cs",
               "RelativeToolTip": "Users\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:00:55.617Z"
+              "WhenOpened": "2025-04-02T20:00:55.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ReposUsers.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Repository\\ReposUsers.cs",
               "RelativeDocumentMoniker": "Users\\SQL\\Repository\\ReposUsers.cs",
@@ -224,12 +239,11 @@
               "RelativeToolTip": "Users\\SQL\\Repository\\ReposUsers.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAqwEoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T19:19:53.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T19:19:53.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmailRepos.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Users\\Users\\SQL\\Repository\\EmailRepos.cs",
               "RelativeDocumentMoniker": "Users\\SQL\\Repository\\EmailRepos.cs",

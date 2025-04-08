@@ -1,27 +1,27 @@
-using Ocelot.Middleware;
 using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 
-public class Program
+var builder = WebApplication.CreateBuilder(args);
+
+// Настройка конфигурации для Ocelot
+builder.Configuration.AddJsonFile("ocelot.json", optional: false, reloadOnChange: true);
+
+// Добавление Ocelot
+builder.Services.AddOcelot(builder.Configuration);
+
+var app = builder.Build();
+
+// Middleware для разработки
+if (app.Environment.IsDevelopment())
 {
-    public static void Main(string[] args)
-    {
-        CreateHostBuilder(args).Build().Run();
-    }
-
-    public static IHostBuilder CreateHostBuilder(string[] args) =>
-        Host.CreateDefaultBuilder(args)
-            .ConfigureAppConfiguration((hostingContext, config) =>
-            {
-                config.AddJsonFile("ocelot.json", optional: false, reloadOnChange: true);
-            })
-            .ConfigureWebHostDefaults(webBuilder =>
-            {
-                webBuilder.UseUrls("http://localhost:5054").ConfigureServices(services =>
-                {
-                    services.AddOcelot();
-                }).Configure(app =>
-                {
-                    app.UseOcelot().GetAwaiter().GetResult();
-                });
-            });
+    app.UseDeveloperExceptionPage();
 }
+
+// Использование Ocelot как middleware
+app.UseOcelot().Wait();
+
+// Установка порта
+app.Urls.Add("http://localhost:5054");
+
+// Запуск приложения
+app.Run();

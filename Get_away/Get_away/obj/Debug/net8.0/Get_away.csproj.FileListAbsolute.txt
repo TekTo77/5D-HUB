@@ -45,3 +45,4 @@ C:\Users\TekTo77\Desktop\Progect\Get_away\Get_away\obj\Debug\net8.0\refint\Get_a
 C:\Users\TekTo77\Desktop\Progect\Get_away\Get_away\obj\Debug\net8.0\Get_away.pdb
 C:\Users\TekTo77\Desktop\Progect\Get_away\Get_away\obj\Debug\net8.0\Get_away.genruntimeconfig.cache
 C:\Users\TekTo77\Desktop\Progect\Get_away\Get_away\obj\Debug\net8.0\ref\Get_away.dll
+C:\Users\TekTo77\Desktop\Progect\Get_away\Get_away\obj\Debug\net8.0\Get_away.sourcelink.json

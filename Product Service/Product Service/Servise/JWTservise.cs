@@ -40,7 +40,7 @@ namespace Product_Service.Servise
             var handler = new JwtSecurityTokenHandler();
             var jwtToken = handler.ReadJwtToken(token);
 
-            // Ищем претензию с типом "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name"
+            
             var emailClaim = jwtToken.Claims.FirstOrDefault(c => c.Type == "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name");
 
             return emailClaim?.Value ?? string.Empty;

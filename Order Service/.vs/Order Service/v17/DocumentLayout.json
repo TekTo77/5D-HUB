@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\kafka\\kafkaresponsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\kafka\\kafkaresponsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\kafka\\kafkamesseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\kafka\\kafkamesseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\orderservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\orderservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\toolsservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\toolsservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\orderservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\orderservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\sql\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\sql\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\sql\\repository\\emailrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\kafka\\kafkamesseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\kafka\\kafkamesseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\kafka\\kafkaresponsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\kafka\\kafkaresponsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\sql\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\servise\\jwtservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|solutionrelative:order service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E62EA9B-0FE2-4347-8C97-47854716406C}|Order Service\\Order Service.csproj|c:\\users\\tekto77\\desktop\\progect\\order service\\order service\\order service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -74,11 +74,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
+              "Title": "JwtAuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\JwtAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "Order Service\\JwtAuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\JwtAuthenticationMiddleware.cs",
+              "RelativeToolTip": "Order Service\\JwtAuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:14:47.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\appsettings.json",
               "RelativeDocumentMoniker": "Order Service\\appsettings.json",
@@ -86,77 +98,59 @@
               "RelativeToolTip": "Order Service\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T19:26:59.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T19:26:59.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "EmailRepos.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\SQL\\Repository\\EmailRepos.cs",
               "RelativeDocumentMoniker": "Order Service\\SQL\\Repository\\EmailRepos.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\SQL\\Repository\\EmailRepos.cs",
               "RelativeToolTip": "Order Service\\SQL\\Repository\\EmailRepos.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:08:44.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T12:08:44.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "KafkaMesseg.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\Kafka\\KafkaMesseg.cs",
               "RelativeDocumentMoniker": "Order Service\\Servise\\Kafka\\KafkaMesseg.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\Kafka\\KafkaMesseg.cs",
               "RelativeToolTip": "Order Service\\Servise\\Kafka\\KafkaMesseg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T11:55:35.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T11:55:35.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "KafkaResponseHandler.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\Kafka\\KafkaResponseHandler.cs",
               "RelativeDocumentMoniker": "Order Service\\Servise\\Kafka\\KafkaResponseHandler.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\Kafka\\KafkaResponseHandler.cs",
               "RelativeToolTip": "Order Service\\Servise\\Kafka\\KafkaResponseHandler.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAIYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwHgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T19:39:25.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T19:39:25.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "KafkaProducer.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\Kafka\\KafkaProducer.cs",
               "RelativeDocumentMoniker": "Order Service\\Servise\\Kafka\\KafkaProducer.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\Kafka\\KafkaProducer.cs",
               "RelativeToolTip": "Order Service\\Servise\\Kafka\\KafkaProducer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:06:37.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T17:06:37.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Startup.cs",
-              "RelativeDocumentMoniker": "Order Service\\Startup.cs",
-              "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Startup.cs",
-              "RelativeToolTip": "Order Service\\Startup.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAG4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:24:47.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Order Service\\Properties\\launchSettings.json",
@@ -164,38 +158,35 @@
               "RelativeToolTip": "Order Service\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T19:27:02.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T19:27:02.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\SQL\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Order Service\\SQL\\Repository\\Repository.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\SQL\\Repository\\Repository.cs",
               "RelativeToolTip": "Order Service\\SQL\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwCgAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:14:26.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T11:14:26.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "OrderServise.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\OrderServise.cs",
               "RelativeDocumentMoniker": "Order Service\\Servise\\OrderServise.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\OrderServise.cs",
               "RelativeToolTip": "Order Service\\Servise\\OrderServise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:55:41.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T08:55:41.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ToolsServise.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\ToolsServise.cs",
               "RelativeDocumentMoniker": "Order Service\\Servise\\ToolsServise.cs",
@@ -203,21 +194,19 @@
               "RelativeToolTip": "Order Service\\Servise\\ToolsServise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:44:15.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T08:44:15.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "JWTservise.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\JWTservise.cs",
               "RelativeDocumentMoniker": "Order Service\\Servise\\JWTservise.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Servise\\JWTservise.cs",
               "RelativeToolTip": "Order Service\\Servise\\JWTservise.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:44:01.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T08:44:01.621Z"
             },
             {
               "$type": "Document",
@@ -233,20 +222,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Program.cs",
               "RelativeDocumentMoniker": "Order Service\\Program.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Program.cs",
               "RelativeToolTip": "Order Service\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:38:54.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T08:38:54.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SqlContext.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\SQL\\SqlContext.cs",
               "RelativeDocumentMoniker": "Order Service\\SQL\\SqlContext.cs",
@@ -254,12 +242,11 @@
               "RelativeToolTip": "Order Service\\SQL\\SqlContext.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAQwCQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:37:19.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T08:37:19.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Core\\Order.cs",
               "RelativeDocumentMoniker": "Order Service\\Core\\Order.cs",
@@ -272,16 +259,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Order Service\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\TekTo77\\Desktop\\Progect\\Order Service\\Order Service\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Order Service\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T17:07:15.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T17:07:15.26Z"
             }
           ]
         }

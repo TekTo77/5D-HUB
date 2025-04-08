@@ -15,7 +15,7 @@ namespace Order_Service.Servise
 
         public KafkaProducer(string bootstrapServers, string topic, KafkaResponseHandler responseHandler)
         {
-            Log.Information("🔧 Создание KafkaProducer...");
+            Log.Information("Создание KafkaProducer...");
             Log.Information($"BootstrapServers: {bootstrapServers}");
             Log.Information($"Topic: {topic}");
 
@@ -24,12 +24,12 @@ namespace Order_Service.Servise
 
             var config = new ProducerConfig { BootstrapServers = bootstrapServers ?? throw new ArgumentNullException(nameof(bootstrapServers)) };
             _producer = new ProducerBuilder<Null, string>(config).Build();
-            Log.Information("✅ KafkaProducer создан");
+            Log.Information("KafkaProducer создан");
         }
 
         public async Task<bool> CheckAndReserveProducts(List<CreateProductinorder> products)
         {
-            Log.Information("🔍 Проверка и резервирование продуктов...");
+            Log.Information("Проверка и резервирование продуктов...");
             foreach (var product in products)
             {
                 var correlationId = Guid.NewGuid().ToString();
@@ -50,7 +50,7 @@ namespace Order_Service.Servise
                 Log.Information("Продукт с ID: {ProductId} доступен и зарезервирован", productId);
             }
 
-            Log.Information("✅ Все продукты доступны и зарезервированы");
+            Log.Information("Все продукты доступны и зарезервированы");
             return true;
         }
 
@@ -61,7 +61,7 @@ namespace Order_Service.Servise
                 string eventMessage = $"{eventType} | {DateTime.UtcNow:O} | {payload}";
                 Log.Information($"Отправка события: {eventMessage}");
                 await _producer.ProduceAsync(_topic, new Message<Null, string> { Value = eventMessage });
-                Log.Information("✅ Событие отправлено");
+                Log.Information("Событие отправлено");
             }
             catch (Exception ex)
             {
@@ -71,9 +71,9 @@ namespace Order_Service.Servise
 
         public void Dispose()
         {
-            Log.Information("🔧 KafkaProducer освобождает ресурсы...");
+            Log.Information("KafkaProducer освобождает ресурсы...");
             _producer?.Dispose();
-            Log.Information("✅ KafkaProducer освобождён");
+            Log.Information("KafkaProducer освобождён");
         }
     }
 

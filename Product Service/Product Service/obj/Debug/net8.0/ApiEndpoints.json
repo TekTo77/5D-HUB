@@ -1,22 +1,6 @@
 [
   {
     "ContainingType": "Product_Service.Controllers.ProductsController",
-    "Method": "CreateProduct",
-    "RelativePath": "api/Products/products",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "Product_Service.Core.Product",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Product_Service.Controllers.ProductsController",
     "Method": "GetInfoProduct",
     "RelativePath": "api/Products/products/{id}",
     "HttpMethod": "GET",
@@ -48,6 +32,22 @@
         "Name": "quantity",
         "Type": "System.Int32",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Product_Service.Controllers.ProductsController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Products/productsCreate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Product_Service.Core.Product",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

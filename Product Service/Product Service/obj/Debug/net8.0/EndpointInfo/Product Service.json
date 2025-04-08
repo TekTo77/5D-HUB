@@ -28,7 +28,7 @@
         }
       }
     },
-    "/api/Products/products": {
+    "/api/Products/productsCreate": {
       "post": {
         "tags": [
           "Products"

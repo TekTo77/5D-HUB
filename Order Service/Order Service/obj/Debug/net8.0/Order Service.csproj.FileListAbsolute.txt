@@ -73,3 +73,25 @@ C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\obj\Debug\net8.0\re
 C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\obj\Debug\net8.0\Order Service.pdb
 C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\obj\Debug\net8.0\Order Service.genruntimeconfig.cache
 C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\obj\Debug\net8.0\ref\Order Service.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\TekTo77\Desktop\Progect\Order Service\Order Service\obj\Debug\net8.0\Order Service.sourcelink.json

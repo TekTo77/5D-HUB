@@ -28,7 +28,7 @@ namespace Product_Service.Controllers
             return Ok( product);
         }
 
-        [HttpPost("products")]
+        [HttpPost("productsCreate")]
         public async Task<IActionResult> CreateProduct([FromBody] Product request)
         {
             if (request == null || request.Name.IsNullOrEmpty())

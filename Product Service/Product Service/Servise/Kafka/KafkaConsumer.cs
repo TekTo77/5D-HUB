@@ -20,7 +20,7 @@ namespace Product_Service.Servise.Kafka
 
         public ProductKafkaConsumer(IConfiguration config, ProductServise productService)
         {
-            Log.Information("🔧 Создание ProductKafkaConsumer...");
+            Log.Information("Создание ProductKafkaConsumer...");
             _config = config ?? throw new ArgumentNullException(nameof(config));
             _productService = productService ?? throw new ArgumentNullException(nameof(productService));
 
@@ -50,28 +50,28 @@ namespace Product_Service.Servise.Kafka
             {
                 BootstrapServers = bootstrapServers
             };
-            Log.Information("✅ Конфигурация ProductKafkaConsumer завершена");
+            Log.Information("Конфигурация ProductKafkaConsumer завершена");
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            await Task.Delay(5000, stoppingToken); // Waiting for the host to start
-            Log.Information("⚙️ ProductKafkaConsumer.ExecuteAsync запущен и слушает топик: " + _requestTopic);
+            await Task.Delay(5000, stoppingToken); 
+            Log.Information("ProductKafkaConsumer.ExecuteAsync запущен и слушает топик: " + _requestTopic);
 
             using var consumer = new ConsumerBuilder<Null, string>(_consumerConfig).Build();
-            Log.Information("✅ Консюмер создан");
+           
 
             using var producer = new ProducerBuilder<Null, string>(_producerConfig).Build();
-            Log.Information("✅ Продюсер создан");
+            
 
             try
             {
                 consumer.Subscribe(_requestTopic);
-                Log.Information("✅ Успешно подписан на топик: " + _requestTopic);
+                Log.Information("Успешно подписан на топик: " + _requestTopic);
             }
             catch (Exception ex)
             {
-                Log.Error($"❌ Ошибка при подписке на топик: {ex.Message}");
+                Log.Error($"Ошибка при подписке на топик: {ex.Message}");
                 throw;
             }
 
@@ -79,16 +79,16 @@ namespace Product_Service.Servise.Kafka
             {
                 try
                 {
-                    Log.Information("⏳ Ожидание сообщения...");
+                    Log.Information("Ожидание сообщения...");
                     var result = consumer.Consume(stoppingToken);
-                    Log.Information($"📥 Получено сообщение: {result.Message.Value}");
+                    Log.Information($"Получено сообщение: {result.Message.Value}");
 
                     var (eventType, _, values) = KafkaMesseg.ParseMessage(result.Message.Value);
                     Log.Information($"Тип события: {eventType}");
 
                     if (eventType != "ProductCheckRequest")
                     {
-                        Log.Information("⏭️ Сообщение пропущено: неподходящий тип события");
+                        Log.Information("Сообщение пропущено: неподходящий тип события");
                         continue;
                     }
 
@@ -109,28 +109,28 @@ namespace Product_Service.Servise.Kafka
                     }
                     catch (Exception ex)
                     {
-                        Log.Error($"❌ Ошибка при проверке/резервировании: {ex.Message}");
+                        Log.Error($"Ошибка при проверке/резервировании: {ex.Message}");
                         isAvailable = false;
                     }
 
                     var response = KafkaMesseg.CreateMessage("ProductCheckResponse",
                         productId.ToString(), isAvailable.ToString(), correlationId);
                     await producer.ProduceAsync(_responseTopic, new Message<Null, string> { Value = response }, stoppingToken);
-                    Log.Information($"📤 Отправлен ответ: {response}");
+                    Log.Information($"Отправлен ответ: {response}");
                 }
                 catch (Exception ex)
                 {
-                    Log.Error($"🔥 Ошибка consumer'а: {ex.Message}");
+                    Log.Error($"Ошибка consumer'а: {ex.Message}");
                 }
             }
 
-            Log.Information("🏁 ProductKafkaConsumer завершён");
+            Log.Information("ProductKafkaConsumer завершён");
             consumer.Close();
         }
 
         public override async Task StopAsync(CancellationToken cancellationToken)
         {
-            Log.Information("🔧 ProductKafkaConsumer остановлен.");
+            Log.Information("ProductKafkaConsumer остановлен.");
             await base.StopAsync(cancellationToken);
         }
     }

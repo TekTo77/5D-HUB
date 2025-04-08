@@ -1,30 +1,62 @@
-using Product_Service;
+using Microsoft.OpenApi.Models;
+using Product_Service.Servise;
+using Product_Service.Servise.Kafka;
 using Serilog;
 
-namespace ControllerProduct
+
+var builder = WebApplication.CreateBuilder(args);
+
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
+
+builder.Services.AddControllers();
+
+builder.Services.AddSwaggerGen(c =>
 {
-    public class Program
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+});
+
+builder.Services.AddSingleton<ProductServise>();
+builder.Services.AddScoped<JWTservise>();
+builder.Services.AddHostedService<ProductKafkaConsumer>();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowALL", builder =>
     {
-        static async Task Main(string[] args)
-        {
+        builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+    });
+});
 
-            Log.Logger = new LoggerConfiguration()
-            .WriteTo.Console()  
-            .CreateLogger();
+var app = builder.Build();
 
-            await CreateHostBuilder(args).Build().RunAsync();
-
-
-        }
-
-
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder
-                        .UseStartup<Startup>()
-                        .UseUrls("http://localhost:5051/");
-                });
-    }
+if (app.Environment.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage();
 }
+
+
+app.UseRouting();
+
+app.UseCors("AllowALL");
+
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+    c.RoutePrefix = string.Empty;
+});
+
+app.UseJwtAuthentication();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
+
+
+app.Run("http://localhost:5051/");

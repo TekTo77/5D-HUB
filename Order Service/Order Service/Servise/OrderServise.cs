@@ -33,7 +33,7 @@ namespace Order_Service.Servise
 
         public async Task<(bool Flag, int Id)> CreateOrder(CreateOrder order)
         {
-            // Проверяем наличие продуктов через KafkaProducer
+            
             bool allProductsAvailable = await _kafkaProducer.CheckAndReserveProducts(order.createProductinorders);
             if (!allProductsAvailable)
             {
@@ -41,7 +41,7 @@ namespace Order_Service.Servise
                 return (false, 0);
             }
 
-            // Если все продукты доступны, сохраняем заказ через репозиторий
+           
             return await Repository.CreateProductinOrder(order);
         }
 
